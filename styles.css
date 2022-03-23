@@ -92,6 +92,11 @@
     margin-left: 1rem;
   } 
   
+  .content-container{
+    flex-direction: column;
+    margin: 0 1rem;
+  }
+  
   .scarecrow-photo {
     width: 290px;
     height: 100%;
