@@ -28,7 +28,7 @@
 }
 
 .scarecrow-photo {
-  width: 300px;
+  width: 540px;
   height: 100%;
   margin-top: 4rem;
 }
@@ -99,8 +99,6 @@
   
   .scarecrow-photo {
     width: 290px;
-    height: 100%;
-    margin-top: 4rem;
   }
   
   .section-content {
