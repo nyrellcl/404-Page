@@ -44,3 +44,24 @@
   color: #4F4F4F;
   line-height: 2.25rem;
 }
+
+.btn{
+  width: 216px;
+  height: 68px;
+  position: absolute;
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  color: #FFFFFF;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  background-color: #333333;
+  border: none;
+  transition: all 200ms;
+}
+
+.btn:hover{
+  background-color: #FFFFFF;
+  color: #333333;
+  border: 2px solid #333333;
+  cursor: pointer;
+}
