@@ -7,9 +7,10 @@ Font-weight: 700
 Font-size: 64px
 
 Body
-Font: Space Mono
-Font-weight: 400
+Font: Space Mono, Inconsolata
+Font-weight: 400,700
 Font-size: 24px
+
 
 Footer
 Font: Montserrat
@@ -17,7 +18,7 @@ Font-weight: 700
 Font-size: 14px
 
 
-#Color
+# Color
 
 Heading
 
